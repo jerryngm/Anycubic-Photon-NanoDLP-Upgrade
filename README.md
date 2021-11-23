@@ -1,4 +1,4 @@
-Parts List:
+🧰 Parts List
 -	
 🍓 **Raspberry Pi:**
  - [Raspberry Pi 3B+](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/)
@@ -30,3 +30,38 @@ Parts List:
  - Any other Nextion screen size support up to 7' (E.g. 3.5, 5.0, etc.)
 
 Some of the link above is affiliated links from Aliexpress, when possible please order from those links as it would allow me to offset some cost of ordering wrong parts. Thank you 🥰 
+
+(WIP) 👨‍🏫 Instructions
+-	
+🎛️ **Upload modded firmware to your NanoDLP controller board (WIP)**
+
+- Connect the red wire on the provided usb cable
+-	-  \<insert image here>
+-	Plug the board to your computer
+-	Download the moded firmware above and ........
+
+🔧 **Teardown your Photon (WIP)**
+Open the bottom cover
+
+\<insert image here>
+
+Unplug all the cables
+
+🔄 **Swap connections (WIP)**
+
+ - Swap UV line
+ - Swap Endstop line
+
+🔌 **Connect parts to the controller (WIP)**
+\<insert image here>
+
+🍓 **Config your Pi and boot it up (WIP)**
+
+ - Download NanoDLP firmware -> flash it to an SD card
+ - Edit config.txt file:
+		- Enter your WIFI details
+		- Config LCD screen...
+		
+🌎 **Open NanoDLP web interface and config (WIP)**
+ - Look up your raspberrypi IP
+ - .......
