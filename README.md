@@ -3,7 +3,7 @@
 🍓 **Raspberry Pi:**
  - [Raspberry Pi 3B+](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/)
  - or [Pi 4 model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) (If you want to run 4K screen - future proof)
- - or even your computer (Windows, Linux, Mac) can run nanoDLP
+ - or even your computer (Windows, Linux, Mac) can also run nanoDLP
  
  🎛️ **NanoDLP official controller board:**
 
