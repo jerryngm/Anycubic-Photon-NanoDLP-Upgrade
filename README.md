@@ -28,3 +28,5 @@ Parts List:
 (Optional as NanoDLP can be controlled fully via its web interface)
  - [2.8 Inch](https://s.click.aliexpress.com/e/_AMSOIS) (Anycubic Photon comes with 2.8 inch so I assume this would fit the slot)
  - Any other Nextion screen size support up to 7' (E.g. 3.5, 5.0, etc.)
+
+Some of the link above is affiliated links from Aliexpress, when possible please order from those links as it would allow me to offset some cost of ordering wrong parts. Thank you 🥰 
